@@ -1,5 +1,3 @@
-require 'pry'
-
 MIN = 278_384
 MAX = 824_795
 
